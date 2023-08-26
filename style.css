@@ -1,0 +1,90 @@
+a {
+    display: inline;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    right: 10px;
+    left: 500px;
+    height: 100px;
+    padding-right: 30px;
+}
+a:hover{
+    color: brown;
+}
+button {
+    background-color: brown;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: centre;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0);
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+    left: 900px;
+    top: 250px;
+}
+button:hover{
+    background-color: thistle;
+    border: 5px rgba(228, 21, 35, 0.831);
+}
+#logo {
+    color: brown;
+    font-size: 50px;
+    font-family: fantasy;
+    position: relative;
+    right: 10px;
+    left: 2px;
+    bottom: 18px;
+}
+#menu {
+    font-size: 100px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    right: 100px;
+}
+#tagline {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    left: 150px;
+}
+#one {
+    height: 50px;
+    background-color: aliceblue;
+    position: relative;
+    top: 250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#two {
+    width: 200px;
+    margin-left: 450px;
+    font-size: 60px;
+    position: relative;
+    bottom: 11px;
+}
+.footer {
+    color: whitesmoke;
+    text-align: right;
+    position: relative;
+    top: 370px;
+}
+i{
+    color: aliceblue;
+    position: relative;
+    bottom: 300px;
+    left: 1300px;
+    margin-right: 20px;
+    display: inline;
+    font-size: 20px;
+}
